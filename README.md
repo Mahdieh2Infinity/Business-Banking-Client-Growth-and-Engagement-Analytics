@@ -210,6 +210,8 @@ This project demonstrates how analytics can support business banking decision-ma
 
 ## Author
 
-Mahdieh Ghafourian (Aylin)
-Toronto, Ontario
-Master of Information Systems & Technology, York University
+**Mahdieh Ghafourian (Aylin)**
+
+Toronto, Ontario, Canada
+
+Data Analytics | Business Intelligence | Machine Learning
